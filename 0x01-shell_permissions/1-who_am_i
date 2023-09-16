@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Current user: $current_user"
+whoami
